@@ -26,6 +26,6 @@ The users can login and check the availability of parking slots near their selec
 ## Presentation link
 
 ## Project by : 
-## Team 592 - Hashcoders
+#### Team 592 - Hashcoders
 #### Tushar Goel
 #### Nikita Agarwal

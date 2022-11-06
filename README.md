@@ -22,8 +22,14 @@ The users can login and check the availability of parking slots near their selec
 - Implementation of IOT can further minimize the use of cameras and other heavy files, and can make the tracking of vehicles easier.
 
 ## How it works
+SLIDe is an intelligent parking system that assists drivers in finding a parking space. 
+
+We have created two register portals and one login portal one for user and one for the administrator. The administrator can view their parking slots, the empty and the vacant slots which can also be seen by the user if they enter location in their website. Then we also allow a user to pre-book a slot for a period of time so that they save time . The unregistered users are alloted a parking slot when they move inside the place where the camera detects their Number Plate and allocates a free slot marked with their number.
+
+If there are no parking slots left in the desired location ,our website scans through minimum radius from where it can fetch the free slot and again till it finds the nearest parking slot from the location the user chose.
 
 ## Presentation link
+https://bit.ly/3T46jRz
 
 ## Project by : 
 #### Team 592 - Hashcoders
